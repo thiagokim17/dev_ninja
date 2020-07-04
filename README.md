@@ -17,6 +17,8 @@ https://editor.p5js.org/thiagokim17/full/BrwmPdNFR
 
 ## Resultado
 
-![Cat](https://github.com/thiagokim17/dev_ninja/blob/master/certificado-master/ImersaoDev-Certificado.png)
+![Cat](https://github.com/thiagokim17/dev_ninja/blob/master/certificado-master/thiagokim17-full.png)
 
-<iframe src="https://editor.p5js.org/thiagokim17/embed/BrwmPdNFR"></iframe>
+![Cat](https://github.com/thiagokim17/dev_ninja/blob/master/certificado-master/thiagokim17-full-2.png)
+
+![Cat](https://github.com/thiagokim17/dev_ninja/blob/master/certificado-master/ImersaoDev-Certificado.png)
